@@ -1,1 +1,1 @@
-# semic_2021
+# Files for the SEMIC 2021 website
